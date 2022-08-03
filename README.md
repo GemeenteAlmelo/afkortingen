@@ -4,86 +4,86 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 <h1>A. </h1>
 <dl>
 <dt>AHN</dt> 
-<dd>Actueel Hoogtebestand Nederland.</dd>
+<dd>Actueel Hoogtebestand Nederland</dd>
 
 <dt>AVG</dt> 
-<dd>Algemene Verordening Gegevensbescherming.</dd>
+<dd>Algemene Verordening Gegevensbescherming</dd>
 
 <dt>API</dt> 
-<dd>Application Programming Interface (API).</dd>
+<dd>Application Programming Interface (API)</dd>
 </dl>
 <h1>B. </h1>
 <dl>
 <dt>BAG</dt> 
-<dd>Basisregistraties Adressen en Gebouwen.</dd>
+<dd>Basisregistraties Adressen en Gebouwen</dd>
 
 <dt>BRP</dt> 
-<dd>Basisregistratie Personen.</dd>
+<dd>Basisregistratie Personen</dd>
 
 <dt>BRI</dt> 
-<dd>Basisregistratie Inkomen.</dd>
+<dd>Basisregistratie Inkomen</dd>
 
 <dt>BRK</dt> 
-<dd>Basisregistratie Kadaster.</dd>
+<dd>Basisregistratie Kadaster</dd>
 
 <dt>BRT</dt> 
-<dd>Basisregistratie Kleinschalige Topografie.</dd>
+<dd>Basisregistratie Kleinschalige Topografie</dd>
 
 <dt>BGT</dt> 
-<dd>Basisregistratie Grootschalige Topografie.</dd>
+<dd>Basisregistratie Grootschalige Topografie</dd>
 
 <dt>BRO</dt> 
-<dd>Basisregistratie Ondergrond.</dd>
+<dd>Basisregistratie Ondergrond</dd>
 
 <dt>BRV</dt> 
 <dd>Basisregistratie Voertuigen.</dd>
 
 <dt>BOR</dt> 
-<dd>Basis Object Registratie.</dd>
+<dd>Basis Object Registratie</dd>
 
 <dt>BORIUS - BOR (Basis Object Registratie)</dt> 
-<dd>Informatie- en Uitwisselstandaarden.</dd>
+<dd>Informatie- en Uitwisselstandaarden</dd>
 
 <dt>BZK</dt> 
-<dd>Ministerie van Binnenlandse Zaken en Koninkrijksrelaties.</dd>
+<dd>Ministerie van Binnenlandse Zaken en Koninkrijksrelaties</dd>
 </dl>
 <h1>C. </h1>
 <dl>
 <dt>CISO</dt> 
-<dd>Chief Information and Security Officer.</dd>
+<dd>Chief Information and Security Officer</dd>
 <dt>CORE</dt> 
-<dd>Centrale Objectregistratie.</dd>
+<dd>Centrale Objectregistratie</dd>
 </dl>
 <h1>D. </h1>
 <dl>
 <dt>DMS</dt> 
-<dd>Document Management Systeem.</dd>
+<dd>Document Management Systeem</dd>
 </dl>
 <h1>E. </h1>
 <dl>
 <dt>EZ</dt>
-<dd>Ministerie van Economische Zaken en Klimaat.</dd>
+<dd>Ministerie van Economische Zaken en Klimaat</dd>
 </dl>
 <h1>F. </h1>
 
 <h1>G. </h1>
 <dl>
 <dt>GDPR</dt> 
-<dd>General Data Protection Regulation (zie AVG).</dd>
+<dd>General Data Protection Regulation (zie AVG)</dd>
 <dt>GWSW</dt> 
-<dd>Gegevenswoordenboek Stedelijk Water.</dd>
+<dd>Gegevenswoordenboek Stedelijk Water</dd>
 <dt>GEMMA</dt> 
-<dd>Gemeentelijke Model Architectuur.</dd>
+<dd>Gemeentelijke Model Architectuur</dd>
 </dl>
 <h1>H. </h1>
 <dl>
 <dt>HR</dt> 
-<dd>Handelsregister (Ook wel afgekort als NHR, Nederlandse Handelsregister).</dd>
+<dd>Handelsregister (Ook wel afgekort als NHR, Nederlandse Handelsregister)</dd>
 </dl>
 <h1>I.</h1>
 <dl>
 <dt>IMBOR</dt>
-<dd>Informatiemodel Beheer Openbare Ruimte.</dd>
+<dd>Informatiemodel Beheer Openbare Ruimte</dd>
 </dl>
 <h1>J. </h1>
 
@@ -96,23 +96,23 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 <h1>N. </h1>
 <dl>
 <dt>NAP</dt> 
-<dd>Normaal Amsterdams Peil.</dd>
+<dd>Normaal Amsterdams Peil</dd>
 
 <dt>NORA</dt>
-<dd>Nederlandse Overheid Referentie Architectuur.</dd>
+<dd>Nederlandse Overheid Referentie Architectuur</dd>
 </dl>
 <h1>O. </h1>
 
 <h1>P. </h1>
 <dl>
 <dt>PDOK</dt>
-<dd>Publieke Dienstverlening Op De Kaart.</dd> 
+<dd>Publieke Dienstverlening Op De Kaart</dd> 
 
 <dt>PIA</dt>
-<dd>Privacy Impact Analyse.</dd>
+<dd>Privacy Impact Analyse</dd>
 
 <dt>PSA</dt>
-<dd>Project Start Architectuur.</dd>
+<dd>Project Start Architectuur</dd>
 </dl>
 <h1>Q. </h1>
 
@@ -121,7 +121,7 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 <h1>S. </h1>
 <dl>
 <dt>SOR</dt>
-<dd>Samenhangende Object Registratie.</dd> 
+<dd>Samenhangende Object Registratie</dd> 
 </dl>
 <h1>T. </h1>
 
@@ -130,18 +130,18 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 <h1>V. </h1>
 <dl>
 <dt>VNG</dt>
-<dd>Vereniging Nederlandse Gemeenten.</dd>
+<dd>Vereniging Nederlandse Gemeenten</dd>
 </dl>
 <h1>W. </h1>
 <dl>
 <dt>Wkpb</dt>
-<dd>Wet Kenbaarheid Publiekerechtelijke Beperkingen.</dd>
+<dd>Wet Kenbaarheid Publiekerechtelijke Beperkingen</dd>
 
 <dt>WOZ</dt>
-<dd>Basisregistratie Waarde Onroerende Zaken.</dd>
+<dd>Basisregistratie Waarde Onroerende Zaken</dd>
 
 <dt>WIBON</dt>
-<dd>Wet Informatie-uitwisseling Bovengrondse en Ondergrondse Netwerken.</dd>
+<dd>Wet Informatie-uitwisseling Bovengrondse en Ondergrondse Netwerken</dd>
 </dl>
 <h1>X. </h1>
 
