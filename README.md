@@ -53,6 +53,8 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 <dd>Chief Information and Security Officer</dd>
 <dt>CORE</dt> 
 <dd>Centrale Objectregistratie</dd>
+<dt>CROW</dt>
+<dd>Centrum voor Regelgeving en Onderzoek in Grond-, Water-, Wegenbouw en Verkeerstechniek</dd>
 </dl>
 <h1>D. </h1>
 <dl>
@@ -68,22 +70,46 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 
 <h1>G. </h1>
 <dl>
+<dt>GBKN</dt>
+<dd>Grootschalige Basiskaart Nederland</dd>
 <dt>GDPR</dt> 
 <dd>General Data Protection Regulation (zie AVG)</dd>
-<dt>GWSW</dt> 
-<dd>Gegevenswoordenboek Stedelijk Water</dd>
 <dt>GEMMA</dt> 
 <dd>Gemeentelijke Model Architectuur</dd>
+<dt>GI</dt>
+<dd>Geo-informatie</dd>
+<dt>GIS</dt>
+<dd>Geografisch informatiesysteem</dd>
+<dt>GML</dt>
+<dd>Geography Markup Language</dd>
+<dt>GPS</dt>
+<dd>Global Positioning Language</dd>
+<dt>GWSW</dt> 
+<dd>Gegevenswoordenboek Stedelijk Water</dd>
 </dl>
 <h1>H. </h1>
 <dl>
 <dt>HR</dt> 
 <dd>Handelsregister (Ook wel afgekort als NHR, Nederlandse Handelsregister)</dd>
+<dt>HTW</dt>
+<dd>Handboek voor de Technische Werkzaamheden van het kadaster</dd>
 </dl>
 <h1>I.</h1>
 <dl>
 <dt>IMBOR</dt>
 <dd>Informatiemodel Beheer Openbare Ruimte</dd>
+<dt>IMGeo</dt>
+<dd>Informatiemodel Geografie</dd>
+<dt>IMLG</dt>
+<dd>Informatiemodel Landelijk Gebied</dd>
+<dt>IMOOV</dt>
+<dd>Informatiemodel Openbare Orde en Veiligheid</dd>
+<dt>IMWA</dt>
+<dd>Informatiemodel Water</dd>
+<dt>INSPIRE</dt>
+<dd>Infrastructure for Spatial Information in Europe</dd>
+<dt>IT</dt>
+<dd>Informatietechnologie</dd>
 </dl>
 <h1>J. </h1>
 
@@ -97,7 +123,8 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 <dl>
 <dt>NAP</dt> 
 <dd>Normaal Amsterdams Peil</dd>
-
+<dt>NEN</dt>
+<dd>Nederlandse Norm</dd>
 <dt>NORA</dt>
 <dd>Nederlandse Overheid Referentie Architectuur</dd>
 </dl>
@@ -122,10 +149,14 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 <dl>
 <dt>SOR</dt>
 <dd>Samenhangende Object Registratie</dd> 
+<dt>SVB-BGT</dt>
+<dd>Samenwerkingsverband Bronhouders BGT</dd>
 </dl>
 <h1>T. </h1>
 
 <h1>U. </h1>
+<dt>UML</dt>
+<dd>Unified Modeling Language</dd>
 
 <h1>V. </h1>
 <dl>
