@@ -155,8 +155,10 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 <h1>T. </h1>
 
 <h1>U. </h1>
+<dl>
 <dt>UML</dt>
 <dd>Unified Modeling Language</dd>
+</dl>
 
 <h1>V. </h1>
 <dl>
