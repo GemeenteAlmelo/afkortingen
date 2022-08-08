@@ -152,6 +152,8 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 <dt>SVB-BGT</dt>
 <dd>Samenwerkingsverband Bronhouders BGT</dd>
 </dl>
+<dl>SZW</dl>
+<dd>Sociale Zaken en Welzijn</dd>
 <h1>T. </h1>
 
 <h1>U. </h1>
@@ -167,17 +169,18 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 </dl>
 <h1>W. </h1>
 <dl>
+<dt>WABO</dt>
+<dd>Wet Algemene Bepalingen Omgevingsrecht</dd>
 <dt>Wkpb</dt>
 <dd>Wet Kenbaarheid Publiekerechtelijke Beperkingen</dd>
-
 <dt>WOZ</dt>
-<dd>Basisregistratie Waarde Onroerende Zaken</dd>
-
+<dd>Wet Waarde Onroerende Zaken</dd>
 <dt>WIBON</dt>
 <dd>Wet Informatie-uitwisseling Bovengrondse en Ondergrondse Netwerken</dd>
 </dl>
+<dt>WWB</dt>
+<dd>Wet Werk & Bijstand</dd>
 <h1>X. </h1>
-
 <h1>Y. </h1>
 
 <h1>Z.</h1> 
