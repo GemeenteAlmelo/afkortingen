@@ -129,10 +129,10 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 <dd>Normaal Amsterdams Peil</dd>
 <dt>NEN</dt>
 <dd>Nederlandse Norm</dd>
-<dt>NORA</dt>
-<dd>Nederlandse Overheid Referentie Architectuur</dd>
 <dt>NGdW</dt>
 <dd>NedGeoData Warehouse</dd>
+<dt>NORA</dt>
+<dd>Nederlandse Overheid Referentie Architectuur</dd>
 </dl>
 <h1>O. </h1>
 
@@ -140,7 +140,6 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 <dl>
 <dt>PDOK</dt>
 <dd>Publieke Dienstverlening Op De Kaart</dd> 
-
 <dt>PIA</dt>
 <dd>Privacy Impact Analyse</dd>
 
@@ -179,12 +178,12 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 <dl>
 <dt>WABO</dt>
 <dd>Wet Algemene Bepalingen Omgevingsrecht</dd>
+<dt>WIBON</dt>
+<dd>Wet Informatie-uitwisseling Bovengrondse en Ondergrondse Netwerken</dd>
 <dt>Wkpb</dt>
 <dd>Wet Kenbaarheid Publiekerechtelijke Beperkingen</dd>
 <dt>WOZ</dt>
 <dd>Wet Waarde Onroerende Zaken</dd>
-<dt>WIBON</dt>
-<dd>Wet Informatie-uitwisseling Bovengrondse en Ondergrondse Netwerken</dd>
 <dt>WWB</dt>
 <dd>Wet Werk & Bijstand</dd>
 </dl>
