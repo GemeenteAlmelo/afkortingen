@@ -17,42 +17,42 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 <dt>BAG</dt> 
 <dd>Basisregistraties Adressen en Gebouwen</dd>
 
-<dt>BRP</dt> 
-<dd>Basisregistratie Personen</dd>
-
 <dt>BRI</dt> 
 <dd>Basisregistratie Inkomen</dd>
 
 <dt>BRK</dt> 
-<dd>Basisregistratie Kadaster</dd>
-
+<dd>Basisregistratie Kadaster</dd>  
+  
 <dt>BRT</dt> 
 <dd>Basisregistratie Kleinschalige Topografie</dd>
-
+  
 <dt>BGT</dt> 
 <dd>Basisregistratie Grootschalige Topografie</dd>
-
-<dt>BRO</dt> 
-<dd>Basisregistratie Ondergrond</dd>
-
-<dt>BRV</dt> 
-<dd>Basisregistratie Voertuigen.</dd>
-
+  
 <dt>BOR</dt> 
 <dd>Basis Object Registratie</dd>
 
-<dt>BORIUS - BOR (Basis Object Registratie)</dt> 
-<dd>Informatie- en Uitwisselstandaarden</dd>
+<dt>BORIUS</dt> 
+<dd>Basis Object Registratie Informatie- en Uitwisselstandaarden</dd>
+  
+<dt>BRO</dt> 
+<dd>Basisregistratie Ondergrond</dd>
+  
+<dt>BRP</dt> 
+<dd>Basisregistratie Personen</dd>
+
+<dt>BRV</dt> 
+<dd>Basisregistratie Voertuigen.</dd>
 
 <dt>BZK</dt> 
 <dd>Ministerie van Binnenlandse Zaken en Koninkrijksrelaties</dd>
 </dl>
 <h1>C. </h1>
 <dl>
+<dt>CIRT</dt>
+<dd>Cyber Incident Response Team</dd>
 <dt>CISO</dt> 
 <dd>Chief Information and Security Officer</dd>
-<dt>CIRT</dt>
-<dd>Computer Security Incident Response Team</dd>
 <dt>CORE</dt> 
 <dd>Centrale Objectregistratie</dd>
 <dt>CROW</dt>
@@ -88,8 +88,6 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 <dd>Geografisch Informatiesysteem</dd>
 <dt>GML</dt>
 <dd>Geography Markup Language</dd>
-<dt>GPS</dt>
-<dd>Global Positioning Language</dd>
 <dt>GWSW</dt> 
 <dd>Gegevenswoordenboek Stedelijk Water</dd>
 </dl>
@@ -187,9 +185,9 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 <dd>Wet Waarde Onroerende Zaken</dd>
 <dt>WIBON</dt>
 <dd>Wet Informatie-uitwisseling Bovengrondse en Ondergrondse Netwerken</dd>
-</dl>
 <dt>WWB</dt>
 <dd>Wet Werk & Bijstand</dd>
+</dl>
 <h1>X. </h1>
 <h1>Y. </h1>
 
