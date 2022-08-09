@@ -51,6 +51,8 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 <dl>
 <dt>CISO</dt> 
 <dd>Chief Information and Security Officer</dd>
+<dt>CIRT</dt>
+<dd>Computer Security Incident Response Team</dd>
 <dt>CORE</dt> 
 <dd>Centrale Objectregistratie</dd>
 <dt>CROW</dt>
@@ -63,11 +65,15 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 </dl>
 <h1>E. </h1>
 <dl>
+<dt>ETL</dt>
+<dd>Extract Transform Load</dd>
+</dl>
 <dt>EZ</dt>
 <dd>Ministerie van Economische Zaken en Klimaat</dd>
 </dl>
 <h1>F. </h1>
-
+<dt>FME</dt>
+<dd>Feature Manipulation Engine</dd>
 <h1>G. </h1>
 <dl>
 <dt>GBKN</dt>
@@ -77,9 +83,9 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 <dt>GEMMA</dt> 
 <dd>Gemeentelijke Model Architectuur</dd>
 <dt>GI</dt>
-<dd>Geo-informatie</dd>
+<dd>Geo-Informatie</dd>
 <dt>GIS</dt>
-<dd>Geografisch informatiesysteem</dd>
+<dd>Geografisch Informatiesysteem</dd>
 <dt>GML</dt>
 <dd>Geography Markup Language</dd>
 <dt>GPS</dt>
@@ -127,6 +133,8 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 <dd>Nederlandse Norm</dd>
 <dt>NORA</dt>
 <dd>Nederlandse Overheid Referentie Architectuur</dd>
+<dt>NGdW</dt>
+<dd>NedGeoData Warehouse</dd>
 </dl>
 <h1>O. </h1>
 
@@ -151,6 +159,8 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 <dd>Samenhangende Object Registratie</dd> 
 <dt>SVB-BGT</dt>
 <dd>Samenwerkingsverband Bronhouders BGT</dd>
+<dt>SQL</dt>
+<dd>Structured Query Language</dd>
 </dl>
 <dl>SZW</dl>
 <dd>Sociale Zaken en Welzijn</dd>
