@@ -57,6 +57,8 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 <dd>Centrale Objectregistratie</dd>
 <dt>CROW</dt>
 <dd>Centrum voor Regelgeving en Onderzoek in Grond-, Water-, Wegenbouw en Verkeerstechniek</dd>
+<dt>CMT</dt>
+<dd>Centraal Managementteam</dd>
 </dl>
 <h1>D. </h1>
 <dl>
