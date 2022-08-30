@@ -70,12 +70,15 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 <dt>ETL</dt>
 <dd>Extract Transform Load</dd>
 </dl>
+<dl>
 <dt>EZ</dt>
 <dd>Ministerie van Economische Zaken en Klimaat</dd>
 </dl>
+<dl>
 <h1>F. </h1>
 <dt>FME</dt>
 <dd>Feature Manipulation Engine</dd>
+</dl>
 <h1>G. </h1>
 <dl>
 <dt>GBKN</dt>
@@ -161,8 +164,10 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 <dt>SQL</dt>
 <dd>Structured Query Language</dd>
 </dl>
-<dl>SZW</dl>
+<dl>
+<h1>SZW</h1>
 <dd>Sociale Zaken en Welzijn</dd>
+</dl>
 <h1>T. </h1>
 
 <h1>U. </h1>
