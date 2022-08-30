@@ -53,7 +53,7 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 <dd>Cyber Incident Response Team</dd>
 <dt>CISO</dt> 
 <dd>Chief Information and Security Officer</dd>
-<dt>CORE</dt> 
+<dt>CORe</dt> 
 <dd>Centrale Objectregistratie</dd>
 <dt>CROW</dt>
 <dd>Centrum voor Regelgeving en Onderzoek in Grond-, Water-, Wegenbouw en Verkeerstechniek</dd>
