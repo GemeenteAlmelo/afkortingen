@@ -70,7 +70,7 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 <dt>CIRT</dt>
 <dd>Cyber Incident Response Team</dd>
 <dt>CIS</dt> 
-<dd>Center for Internet Security</dd>
+<dd>Centre for Internet Security</dd>
 <dt>CISO</dt> 
 <dd>Chief Information and Security Officer</dd>
 <dt>COR</dt> 
@@ -90,13 +90,13 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 <dt>DBA</dt>
 <dd>Database Administrator</dd>
 <dt>DCX</dt>
-<dd>Digital Customer eXperiance</dd>
+<dd>Digital Customer eXperience</dd>
 <dt>DDI</dt>
 <dd>DNS-DHCP-IPAM</dd>
 <dt>DDL</dt>
 <dd>Data Definition Language</dd>
 <dt>DDoS</dt>
-<dd>Ditributed Denial of Service</dd>
+<dd>Distributed Denial of Service</dd>
 <dt>DHCP</dt>
 <dd>Dynamic Host Configuration Protocol</dd>
 <dt>DIV</dt>
@@ -212,9 +212,9 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 <dt>IPS</dt>
 <dd>Intrusion Prevention System</dd>
 <dt>ISMS</dt>
-<dd>Information Security Managmeent System</dd>
+<dd>Information Security Management System</dd>
 <dt>ISO</dt>
-<dd>Information Securitu Officer</dd>
+<dd>Information Security Officer</dd>
 <dt>IT</dt>
 <dd>Informatietechnologie</dd>
 <dt>ITIL</dt>
@@ -304,7 +304,7 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 <h1>S. </h1>
 <dl>
 <dt>SaaS</dt>
-<dd>Software ss s Service</dd>
+<dd>Software as a Service</dd>
 <dt>SDI</dt>
 <dd>Spatial Data Infrastructure</dd>
 <dt>SDN</dt>
@@ -316,7 +316,7 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 <dt>SLA</dt>
 <dd>Service Level Agreement</dd>
 <dt>SOC</dt>
-<dd>Security Operations Center</dd>
+<dd>Security Operations Centre</dd>
 <dt>SOR</dt>
 <dd>Samenhangende Object Registratie</dd> 
 <dt>SVB-BGT</dt>
@@ -340,7 +340,7 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 <dt>UEM</dt>
 <dd>Unified Endpoint Management</dd>
 <dt>UML</dt>
-<dd>Unified Modeling Language</dd>
+<dd>Unified Modelling Language</dd>
 </dl>
 
 <h1>V. </h1>
@@ -364,7 +364,7 @@ Een afkortingenlijst met veelgebruikte afkortingen binnen de organisatie van de 
 <dt>WIBON</dt>
 <dd>Wet Informatie-uitwisseling Bovengrondse en Ondergrondse Netwerken</dd>
 <dt>Wkpb</dt>
-<dd>Wet Kenbaarheid Publiekerechtelijke Beperkingen</dd>
+<dd>Wet Kenbaarheid Publiekrechtelijke Beperkingen</dd>
 <dt>WOB</dt>
 <dd>Wet Openbaarheid van Bestuur</dd>
 <dt>WOO</dt>
